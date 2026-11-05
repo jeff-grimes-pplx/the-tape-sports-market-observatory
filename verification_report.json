@@ -1,0 +1,102 @@
+{
+  "suite": "The Tape Econometrics & Market-Microstructure Verification Suite",
+  "version": "1.0.0",
+  "status": "ALL_CHECKS_PASSED",
+  "1_census": {
+    "matched_games": 1150,
+    "leagues": 13,
+    "games_with_sportsbook_history": 1136,
+    "sportsbook_price_updates": 1332476,
+    "polymarket_clob_samples": 4195032,
+    "polymarket_markets": 3387,
+    "polymarket_moneyline_volume_usd": 588171739,
+    "sportradar_wallclock_plays": 35060
+  },
+  "2_closing_calibration": {
+    "n_paired_closing_games": 889,
+    "mean_abs_diff_pp": 0.79,
+    "median_abs_diff_pp": 0.64,
+    "mean_signed_diff_pm_minus_pin_pp": 0.16,
+    "share_within_2pp": 0.9561,
+    "share_within_5pp": 0.9989,
+    "pearson_r": 0.998513,
+    "pearson_p": 0.0,
+    "paired_resolved_n": 851,
+    "paired_brier_pinnacle": 0.21146,
+    "paired_brier_polymarket": 0.21149,
+    "paired_ttest_t": -0.1014,
+    "paired_ttest_p": 0.9192,
+    "paired_wilcoxon_p": 0.0046,
+    "common_6way_n": 363,
+    "common_6way_brier_pinnacle": 0.2093,
+    "common_6way_brier_polymarket": 0.2092,
+    "common_6way_logloss_pinnacle": 0.6032,
+    "common_6way_logloss_polymarket": 0.6027,
+    "murphy_1973_pinnacle": {
+      "reliability": 0.00365,
+      "resolution": 0.038425,
+      "uncertainty": 0.244671,
+      "reconstructed_brier": 0.209895
+    },
+    "murphy_1973_polymarket": {
+      "reliability": 0.005135,
+      "resolution": 0.038532,
+      "uncertainty": 0.244671,
+      "reconstructed_brier": 0.211273
+    }
+  },
+  "3_price_discovery_lead_lag": {
+    "total_sharp_events_ge_3pp": 471,
+    "polymarket_sharp_jumps_n": 210,
+    "sportsbook_led_n": 153,
+    "sportsbook_led_share": 0.7286,
+    "polymarket_first_n": 57,
+    "polymarket_first_share": 0.2714,
+    "binomial_test_vs_50_50_p": 2.491810255689349e-11,
+    "pinnacle_sharp_jumps_n": 261,
+    "polymarket_followed_within_2h_n": 140,
+    "polymarket_followed_share": 0.5364,
+    "polymarket_already_moved_n": 73,
+    "polymarket_no_response_2h_n": 48
+  },
+  "4_late_move_arbitrage_backtest": {
+    "strategy": "fade_late_move",
+    "threshold_theta_pp": 2.0,
+    "entry_horizon": "T-10m",
+    "triggered_bets_n": 197,
+    "hit_rate": 0.4975,
+    "net_pnl_per_1usd_staked": 1.8862,
+    "net_roi_per_1usd": 0.0096,
+    "gross_roi_before_fees": 0.0251,
+    "bootstrap_ci95": [
+      -0.1531,
+      0.187
+    ],
+    "placebo_shuffles_n": 500,
+    "placebo_mean_roi": 0.1317,
+    "placebo_ci95": [
+      0.033,
+      0.2231
+    ],
+    "empirical_one_sided_p_value": 0.994
+  },
+  "5_hero_game_audit": {
+    "key": "nfl:2026101240603BF9",
+    "matchup": "Baltimore Ravens @ Atlanta Falcons",
+    "final_score": "30-23 OT",
+    "raw_sportsbook_entries": 2099,
+    "total_synchronized_moneyline_ticks": 1693,
+    "novig_ticks_by_book": {
+      "BetMGM": 93,
+      "DraftKings": 131,
+      "FanDuel": 54,
+      "Pinnacle": 67,
+      "Caesars": 30
+    },
+    "polymarket_clob_ticks": 1318,
+    "sportradar_play_markers": 16,
+    "ravens_pm_open_prob": 0.615,
+    "ravens_pm_min_in_game_prob": 0.12,
+    "ravens_pm_max_final_prob": 0.9995
+  }
+}

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Tape</title>
+<meta name="description" content="Sportsbook lines (OpticOdds) and Polymarket prices for the same games, aligned to the second, with Sportradar results and plays.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='4' fill='%230a0c10'/%3E%3Cpath d='M5 22h6v-6h6v-6h6V8h4' fill='none' stroke='%23e6e9ee' stroke-width='2.5'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="fonts.css">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar" id="topbar">
+  <a class="brand" href="#/wall" aria-label="The Tape — wall">
+    <svg class="mark" viewBox="0 0 32 32" width="22" height="22" aria-hidden="true"><rect x="1" y="1" width="30" height="30" rx="4" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M6 23h5v-6h5v-6h5V7h5" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linejoin="miter"/></svg>
+    <span class="brand-name">THE TAPE</span>
+  </a>
+  <nav class="nav" id="nav" aria-label="Sections">
+    <a href="#/wall" data-route="wall">Wall</a>
+    <a href="#/game" data-route="game">Game</a>
+    <a href="#/discovery" data-route="discovery">Discovery</a>
+    <a href="#/scoreboard" data-route="scoreboard">Scoreboard</a>
+    <a href="#/lab" data-route="lab">Backtest lab</a>
+    <a href="#/today" data-route="today">Today</a>
+    <a href="#/methods" data-route="methods">Methods &amp; receipts</a>
+  </nav>
+  <div class="status mono" id="status" aria-live="polite">loading…</div>
+</header>
+<main id="view" class="view" tabindex="-1"></main>
+<div id="tooltip" class="tooltip mono" role="tooltip" hidden></div>
+<footer class="attribution mono" id="attribution">
+  Sportsbook lines: <span>OpticOdds</span> · Prediction-market prices: <span>Polymarket</span> · Schedules, results, play-by-play: <span>Sportradar</span>. Historical analysis only; no trading, no recommendations.
+</footer>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

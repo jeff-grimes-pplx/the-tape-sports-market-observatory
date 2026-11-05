@@ -1,0 +1,1929 @@
+{
+ "generated_at": "2026-10-15T05:56:45.255Z",
+ "calls": [
+  {
+   "ids": [
+    "20261016217D24AF",
+    "2026101515C2101E",
+    "20261015F7E7134C",
+    "20261015A5D0D0C5",
+    "20261015BC068DC7"
+   ],
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T05:56:45.257Z",
+   "error": null
+  },
+  {
+   "ids": [
+    "20261015D76533E7",
+    "20261015DDCA5ED3",
+    "20261015F86FE74E",
+    "2026101502B055AE",
+    "202610151C6B8C02"
+   ],
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T05:56:45.672Z",
+   "error": null
+  },
+  {
+   "ids": [
+    "202610156011A07E",
+    "2026101577903073",
+    "20261015E00306BD",
+    "202610155224694A",
+    "202610159A27D641"
+   ],
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T05:56:45.949Z",
+   "error": null
+  },
+  {
+   "ids": [
+    "20261015A24FEACC",
+    "20261015D017673D",
+    "2026101575909BFF",
+    "20261015873235C4"
+   ],
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T05:56:46.338Z",
+   "error": null
+  }
+ ],
+ "by_fixture": {
+  "20261015BC068DC7": {
+   "retrieved_at": "2026-10-15T05:56:45.257Z",
+   "home": "Cleveland Guardians",
+   "away": "Tampa Bay Rays",
+   "start": "2026-10-15T17:00:00Z",
+   "status": "unplayed",
+   "odds": [
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Tampa Bay Rays",
+     "selection": "Tampa Bay Rays",
+     "price": 111,
+     "timestamp": 1791996645.4461274,
+     "id": "81005-32800-2026-10-15-10:caesars:moneyline:tampa_bay_rays",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "Tampa Bay Rays",
+     "selection": "Tampa Bay Rays",
+     "price": 114,
+     "timestamp": 1792037638.7785246,
+     "id": "81005-32800-2026-10-15-10:pinnacle:moneyline:tampa_bay_rays",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Cleveland Guardians",
+     "selection": "Cleveland Guardians",
+     "price": -130,
+     "timestamp": 1791996645.4461274,
+     "id": "81005-32800-2026-10-15-10:caesars:moneyline:cleveland_guardians",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Tampa Bay Rays",
+     "selection": "Tampa Bay Rays",
+     "price": 110,
+     "timestamp": 1792014481.123016,
+     "id": "81005-32800-2026-10-15-10:betmgm:moneyline:tampa_bay_rays",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Cleveland Guardians",
+     "selection": "Cleveland Guardians",
+     "price": -135,
+     "timestamp": 1792014481.123016,
+     "id": "81005-32800-2026-10-15-10:betmgm:moneyline:cleveland_guardians",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "Cleveland Guardians",
+     "selection": "Cleveland Guardians",
+     "price": -126,
+     "timestamp": 1792037638.7785246,
+     "id": "81005-32800-2026-10-15-10:pinnacle:moneyline:cleveland_guardians",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Tampa Bay Rays",
+     "selection": "Tampa Bay Rays",
+     "price": 110,
+     "timestamp": 1791996357.6035652,
+     "id": "81005-32800-2026-10-15-10:fanduel:moneyline:tampa_bay_rays",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Cleveland Guardians",
+     "selection": "Cleveland Guardians",
+     "price": -130,
+     "timestamp": 1791996357.6035652,
+     "id": "81005-32800-2026-10-15-10:fanduel:moneyline:cleveland_guardians",
+     "is_main": true
+    }
+   ]
+  },
+  "2026101515C2101E": {
+   "retrieved_at": "2026-10-15T05:56:45.257Z",
+   "home": "Old Dominion",
+   "away": "Georgia Southern",
+   "start": "2026-10-15T23:30:00Z",
+   "status": "unplayed",
+   "odds": [
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Georgia Southern",
+     "selection": "Georgia Southern",
+     "price": -176,
+     "timestamp": 1792035568.4720824,
+     "id": "40012-67756-26-41:fanduel:moneyline:georgia_southern",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Old Dominion",
+     "selection": "Old Dominion",
+     "price": 150,
+     "timestamp": 1791975991.9377985,
+     "id": "40012-67756-26-41:draftkings:moneyline:old_dominion",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Georgia Southern",
+     "selection": "Georgia Southern",
+     "price": -180,
+     "timestamp": 1791975991.9377985,
+     "id": "40012-67756-26-41:draftkings:moneyline:georgia_southern",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Georgia Southern",
+     "selection": "Georgia Southern",
+     "price": -179,
+     "timestamp": 1791991016.196228,
+     "id": "40012-67756-26-41:caesars:moneyline:georgia_southern",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Old Dominion",
+     "selection": "Old Dominion",
+     "price": 150,
+     "timestamp": 1792037830.7489085,
+     "id": "40012-67756-26-41:betmgm:moneyline:old_dominion",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Old Dominion",
+     "selection": "Old Dominion",
+     "price": 146,
+     "timestamp": 1792006077.5297096,
+     "id": "40012-67756-26-41:fanduel:moneyline:old_dominion",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Georgia Southern",
+     "selection": "Georgia Southern",
+     "price": -185,
+     "timestamp": 1792037830.7489085,
+     "id": "40012-67756-26-41:betmgm:moneyline:georgia_southern",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Old Dominion",
+     "selection": "Old Dominion",
+     "price": 150,
+     "timestamp": 1791991016.196228,
+     "id": "40012-67756-26-41:caesars:moneyline:old_dominion",
+     "is_main": true
+    }
+   ]
+  },
+  "20261015F7E7134C": {
+   "retrieved_at": "2026-10-15T05:56:45.257Z",
+   "home": "UAB",
+   "away": "East Carolina",
+   "start": "2026-10-15T23:30:00Z",
+   "status": "unplayed",
+   "odds": [
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "UAB",
+     "selection": "UAB",
+     "price": 170,
+     "timestamp": 1792011009.48026,
+     "id": "13042-26768-26-41:draftkings:moneyline:uab",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "East Carolina",
+     "selection": "East Carolina",
+     "price": -200,
+     "timestamp": 1792041435.8329902,
+     "id": "13042-26768-26-41:betmgm:moneyline:east_carolina",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "East Carolina",
+     "selection": "East Carolina",
+     "price": -197,
+     "timestamp": 1792011044.0178528,
+     "id": "13042-26768-26-41:caesars:moneyline:east_carolina",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "UAB",
+     "selection": "UAB",
+     "price": 165,
+     "timestamp": 1792041435.8329902,
+     "id": "13042-26768-26-41:betmgm:moneyline:uab",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "UAB",
+     "selection": "UAB",
+     "price": 164,
+     "timestamp": 1792011044.0178528,
+     "id": "13042-26768-26-41:caesars:moneyline:uab",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "UAB",
+     "selection": "UAB",
+     "price": 162,
+     "timestamp": 1792042947.726843,
+     "id": "13042-26768-26-41:fanduel:moneyline:uab",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "East Carolina",
+     "selection": "East Carolina",
+     "price": -200,
+     "timestamp": 1792011058.601026,
+     "id": "13042-26768-26-41:fanduel:moneyline:east_carolina",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "East Carolina",
+     "selection": "East Carolina",
+     "price": -205,
+     "timestamp": 1792011009.48026,
+     "id": "13042-26768-26-41:draftkings:moneyline:east_carolina",
+     "is_main": true
+    }
+   ]
+  },
+  "20261015A5D0D0C5": {
+   "retrieved_at": "2026-10-15T05:56:45.257Z",
+   "home": "Texas State",
+   "away": "Colorado State",
+   "start": "2026-10-16T00:00:00Z",
+   "status": "unplayed",
+   "odds": [
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "Colorado State",
+     "selection": "Colorado State",
+     "price": 445,
+     "timestamp": 1792039328.848182,
+     "id": "20528-22150-26-41:pinnacle:moneyline:colorado_state",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Texas State",
+     "selection": "Texas State",
+     "price": -630,
+     "timestamp": 1791984758.0536594,
+     "id": "20528-22150-26-41:fanduel:moneyline:texas_state",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "Texas State",
+     "selection": "Texas State",
+     "price": -621,
+     "timestamp": 1792039328.848182,
+     "id": "20528-22150-26-41:pinnacle:moneyline:texas_state",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Colorado State",
+     "selection": "Colorado State",
+     "price": 475,
+     "timestamp": 1792037811.599919,
+     "id": "20528-22150-26-41:betmgm:moneyline:colorado_state",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Texas State",
+     "selection": "Texas State",
+     "price": -625,
+     "timestamp": 1792037811.599919,
+     "id": "20528-22150-26-41:betmgm:moneyline:texas_state",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Colorado State",
+     "selection": "Colorado State",
+     "price": 425,
+     "timestamp": 1791991012.372773,
+     "id": "20528-22150-26-41:caesars:moneyline:colorado_state",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Texas State",
+     "selection": "Texas State",
+     "price": -590,
+     "timestamp": 1791991012.372773,
+     "id": "20528-22150-26-41:caesars:moneyline:texas_state",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Colorado State",
+     "selection": "Colorado State",
+     "price": 450,
+     "timestamp": 1791984758.0536594,
+     "id": "20528-22150-26-41:fanduel:moneyline:colorado_state",
+     "is_main": true
+    }
+   ]
+  },
+  "20261016217D24AF": {
+   "retrieved_at": "2026-10-15T05:56:45.257Z",
+   "home": "Denver Broncos",
+   "away": "Seattle Seahawks",
+   "start": "2026-10-16T00:15:00Z",
+   "status": "unplayed",
+   "odds": [
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Denver Broncos",
+     "selection": "Denver Broncos",
+     "price": 120,
+     "timestamp": 1791993727.2960835,
+     "id": "74813-25327-26-41:draftkings:moneyline:denver_broncos",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Seattle Seahawks",
+     "selection": "Seattle Seahawks",
+     "price": -145,
+     "timestamp": 1791991000.3860247,
+     "id": "74813-25327-26-41:caesars:moneyline:seattle_seahawks",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Denver Broncos",
+     "selection": "Denver Broncos",
+     "price": 120,
+     "timestamp": 1792017087.0481818,
+     "id": "74813-25327-26-41:betmgm:moneyline:denver_broncos",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Seattle Seahawks",
+     "selection": "Seattle Seahawks",
+     "price": -146,
+     "timestamp": 1792023865.2851853,
+     "id": "74813-25327-26-41:fanduel:moneyline:seattle_seahawks",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Seattle Seahawks",
+     "selection": "Seattle Seahawks",
+     "price": -145,
+     "timestamp": 1792017087.0481818,
+     "id": "74813-25327-26-41:betmgm:moneyline:seattle_seahawks",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Denver Broncos",
+     "selection": "Denver Broncos",
+     "price": 123,
+     "timestamp": 1791991000.3860247,
+     "id": "74813-25327-26-41:caesars:moneyline:denver_broncos",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Denver Broncos",
+     "selection": "Denver Broncos",
+     "price": 124,
+     "timestamp": 1792023865.2851853,
+     "id": "74813-25327-26-41:fanduel:moneyline:denver_broncos",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Seattle Seahawks",
+     "selection": "Seattle Seahawks",
+     "price": -142,
+     "timestamp": 1791993727.2960835,
+     "id": "74813-25327-26-41:draftkings:moneyline:seattle_seahawks",
+     "is_main": true
+    }
+   ]
+  },
+  "2026101502B055AE": {
+   "retrieved_at": "2026-10-15T05:56:45.672Z",
+   "home": "Tampa Bay Lightning",
+   "away": "Seattle Kraken",
+   "start": "2026-10-15T23:00:00Z",
+   "status": "unplayed",
+   "odds": [
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Tampa Bay Lightning",
+     "selection": "Tampa Bay Lightning",
+     "price": -258,
+     "timestamp": 1792029621.2785544,
+     "id": "18753-23489-2026-10-15:draftkings:moneyline:tampa_bay_lightning",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Seattle Kraken",
+     "selection": "Seattle Kraken",
+     "price": 210,
+     "timestamp": 1792029621.2785544,
+     "id": "18753-23489-2026-10-15:draftkings:moneyline:seattle_kraken",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Tampa Bay Lightning",
+     "selection": "Tampa Bay Lightning",
+     "price": -250,
+     "timestamp": 1792037173.340642,
+     "id": "18753-23489-2026-10-15:betmgm:moneyline:tampa_bay_lightning",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Tampa Bay Lightning",
+     "selection": "Tampa Bay Lightning",
+     "price": -250,
+     "timestamp": 1792006957.3811235,
+     "id": "18753-23489-2026-10-15:fanduel:moneyline:tampa_bay_lightning",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Seattle Kraken",
+     "selection": "Seattle Kraken",
+     "price": 200,
+     "timestamp": 1792037173.340642,
+     "id": "18753-23489-2026-10-15:betmgm:moneyline:seattle_kraken",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Seattle Kraken",
+     "selection": "Seattle Kraken",
+     "price": 202,
+     "timestamp": 1792006957.3811235,
+     "id": "18753-23489-2026-10-15:fanduel:moneyline:seattle_kraken",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Seattle Kraken",
+     "selection": "Seattle Kraken",
+     "price": 200,
+     "timestamp": 1792012730.2845714,
+     "id": "18753-23489-2026-10-15:caesars:moneyline:seattle_kraken",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "Seattle Kraken",
+     "selection": "Seattle Kraken",
+     "price": 213,
+     "timestamp": 1792030696.0027592,
+     "id": "18753-23489-2026-10-15:pinnacle:moneyline:seattle_kraken",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "Tampa Bay Lightning",
+     "selection": "Tampa Bay Lightning",
+     "price": -248,
+     "timestamp": 1792030696.0027592,
+     "id": "18753-23489-2026-10-15:pinnacle:moneyline:tampa_bay_lightning",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Tampa Bay Lightning",
+     "selection": "Tampa Bay Lightning",
+     "price": -245,
+     "timestamp": 1792012730.2845714,
+     "id": "18753-23489-2026-10-15:caesars:moneyline:tampa_bay_lightning",
+     "is_main": true
+    }
+   ]
+  },
+  "202610151C6B8C02": {
+   "retrieved_at": "2026-10-15T05:56:45.672Z",
+   "home": "Toronto Maple Leafs",
+   "away": "Buffalo Sabres",
+   "start": "2026-10-15T23:00:00Z",
+   "status": "unplayed",
+   "odds": [
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Toronto Maple Leafs",
+     "selection": "Toronto Maple Leafs",
+     "price": -118,
+     "timestamp": 1791998757.0838723,
+     "id": "10120-39029-2026-10-15:draftkings:moneyline:toronto_maple_leafs",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Buffalo Sabres",
+     "selection": "Buffalo Sabres",
+     "price": -102,
+     "timestamp": 1791998757.0838723,
+     "id": "10120-39029-2026-10-15:draftkings:moneyline:buffalo_sabres",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "Buffalo Sabres",
+     "selection": "Buffalo Sabres",
+     "price": 100,
+     "timestamp": 1792035596.2876968,
+     "id": "10120-39029-2026-10-15:pinnacle:moneyline:buffalo_sabres",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Buffalo Sabres",
+     "selection": "Buffalo Sabres",
+     "price": 102,
+     "timestamp": 1792012730.2845714,
+     "id": "10120-39029-2026-10-15:caesars:moneyline:buffalo_sabres",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Buffalo Sabres",
+     "selection": "Buffalo Sabres",
+     "price": 100,
+     "timestamp": 1792035157.8589842,
+     "id": "10120-39029-2026-10-15:fanduel:moneyline:buffalo_sabres",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "Toronto Maple Leafs",
+     "selection": "Toronto Maple Leafs",
+     "price": -113,
+     "timestamp": 1792035596.2876968,
+     "id": "10120-39029-2026-10-15:pinnacle:moneyline:toronto_maple_leafs",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Toronto Maple Leafs",
+     "selection": "Toronto Maple Leafs",
+     "price": -120,
+     "timestamp": 1792037172.3259256,
+     "id": "10120-39029-2026-10-15:betmgm:moneyline:toronto_maple_leafs",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Buffalo Sabres",
+     "selection": "Buffalo Sabres",
+     "price": 100,
+     "timestamp": 1792037172.3259256,
+     "id": "10120-39029-2026-10-15:betmgm:moneyline:buffalo_sabres",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Toronto Maple Leafs",
+     "selection": "Toronto Maple Leafs",
+     "price": -120,
+     "timestamp": 1792035157.8589842,
+     "id": "10120-39029-2026-10-15:fanduel:moneyline:toronto_maple_leafs",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Toronto Maple Leafs",
+     "selection": "Toronto Maple Leafs",
+     "price": -121,
+     "timestamp": 1792012730.2845714,
+     "id": "10120-39029-2026-10-15:caesars:moneyline:toronto_maple_leafs",
+     "is_main": true
+    }
+   ]
+  },
+  "20261015DDCA5ED3": {
+   "retrieved_at": "2026-10-15T05:56:45.672Z",
+   "home": "New York Knicks",
+   "away": "Toronto Raptors",
+   "start": "2026-10-15T23:30:00Z",
+   "status": "unplayed",
+   "odds": [
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Toronto Raptors",
+     "selection": "Toronto Raptors",
+     "price": 185,
+     "timestamp": 1792034676.8282704,
+     "id": "40294-35775-2026-10-15:caesars:moneyline:toronto_raptors",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "New York Knicks",
+     "selection": "New York Knicks",
+     "price": -225,
+     "timestamp": 1792034676.8282704,
+     "id": "40294-35775-2026-10-15:caesars:moneyline:new_york_knicks",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "New York Knicks",
+     "selection": "New York Knicks",
+     "price": -200,
+     "timestamp": 1792031064.4025552,
+     "id": "40294-35775-2026-10-15:fanduel:moneyline:new_york_knicks",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "New York Knicks",
+     "selection": "New York Knicks",
+     "price": -218,
+     "timestamp": 1792031196.3839433,
+     "id": "40294-35775-2026-10-15:draftkings:moneyline:new_york_knicks",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Toronto Raptors",
+     "selection": "Toronto Raptors",
+     "price": 160,
+     "timestamp": 1792031064.4025552,
+     "id": "40294-35775-2026-10-15:fanduel:moneyline:toronto_raptors",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Toronto Raptors",
+     "selection": "Toronto Raptors",
+     "price": 180,
+     "timestamp": 1792031196.3839433,
+     "id": "40294-35775-2026-10-15:draftkings:moneyline:toronto_raptors",
+     "is_main": true
+    }
+   ]
+  },
+  "20261015D76533E7": {
+   "retrieved_at": "2026-10-15T05:56:45.672Z",
+   "home": "Los Angeles Dodgers",
+   "away": "Milwaukee Brewers",
+   "start": "2026-10-16T00:00:00Z",
+   "status": "unplayed",
+   "odds": [
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Los Angeles Dodgers",
+     "selection": "Los Angeles Dodgers",
+     "price": -164,
+     "timestamp": 1792035164.8026025,
+     "id": "34048-37337-2026-10-15-17:caesars:moneyline:los_angeles_dodgers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Milwaukee Brewers",
+     "selection": "Milwaukee Brewers",
+     "price": 140,
+     "timestamp": 1792035164.8026025,
+     "id": "34048-37337-2026-10-15-17:caesars:moneyline:milwaukee_brewers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Milwaukee Brewers",
+     "selection": "Milwaukee Brewers",
+     "price": 138,
+     "timestamp": 1792036528.0017302,
+     "id": "34048-37337-2026-10-15-17:fanduel:moneyline:milwaukee_brewers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Milwaukee Brewers",
+     "selection": "Milwaukee Brewers",
+     "price": 135,
+     "timestamp": 1792036266.868388,
+     "id": "34048-37337-2026-10-15-17:betmgm:moneyline:milwaukee_brewers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Los Angeles Dodgers",
+     "selection": "Los Angeles Dodgers",
+     "price": -161,
+     "timestamp": 1792036542.7435865,
+     "id": "34048-37337-2026-10-15-17:draftkings:moneyline:los_angeles_dodgers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Milwaukee Brewers",
+     "selection": "Milwaukee Brewers",
+     "price": 133,
+     "timestamp": 1792036542.7435865,
+     "id": "34048-37337-2026-10-15-17:draftkings:moneyline:milwaukee_brewers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Los Angeles Dodgers",
+     "selection": "Los Angeles Dodgers",
+     "price": -164,
+     "timestamp": 1792036528.0017302,
+     "id": "34048-37337-2026-10-15-17:fanduel:moneyline:los_angeles_dodgers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Los Angeles Dodgers",
+     "selection": "Los Angeles Dodgers",
+     "price": -160,
+     "timestamp": 1792037982.403776,
+     "id": "34048-37337-2026-10-15-17:betmgm:moneyline:los_angeles_dodgers",
+     "is_main": true
+    }
+   ]
+  },
+  "20261015F86FE74E": {
+   "retrieved_at": "2026-10-15T05:56:45.672Z",
+   "home": "Houston Rockets",
+   "away": "Oklahoma City Thunder",
+   "start": "2026-10-16T00:30:00Z",
+   "status": "unplayed",
+   "odds": [
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Houston Rockets",
+     "selection": "Houston Rockets",
+     "price": 140,
+     "timestamp": 1792032216.7569058,
+     "id": "17844-19432-2026-10-15:caesars:moneyline:houston_rockets",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Oklahoma City Thunder",
+     "selection": "Oklahoma City Thunder",
+     "price": -162,
+     "timestamp": 1792031497.878377,
+     "id": "17844-19432-2026-10-15:draftkings:moneyline:oklahoma_city_thunder",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Houston Rockets",
+     "selection": "Houston Rockets",
+     "price": 140,
+     "timestamp": 1792030044.3910317,
+     "id": "17844-19432-2026-10-15:fanduel:moneyline:houston_rockets",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Oklahoma City Thunder",
+     "selection": "Oklahoma City Thunder",
+     "price": -165,
+     "timestamp": 1792032216.7569058,
+     "id": "17844-19432-2026-10-15:caesars:moneyline:oklahoma_city_thunder",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Houston Rockets",
+     "selection": "Houston Rockets",
+     "price": 136,
+     "timestamp": 1792031497.878377,
+     "id": "17844-19432-2026-10-15:draftkings:moneyline:houston_rockets",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Oklahoma City Thunder",
+     "selection": "Oklahoma City Thunder",
+     "price": -172,
+     "timestamp": 1792030044.3910317,
+     "id": "17844-19432-2026-10-15:fanduel:moneyline:oklahoma_city_thunder",
+     "is_main": true
+    }
+   ]
+  },
+  "202610156011A07E": {
+   "retrieved_at": "2026-10-15T05:56:45.949Z",
+   "home": "New Jersey Devils",
+   "away": "New York Rangers",
+   "start": "2026-10-15T23:00:00Z",
+   "status": "unplayed",
+   "odds": [
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "New York Rangers",
+     "selection": "New York Rangers",
+     "price": 126,
+     "timestamp": 1792040911.1098745,
+     "id": "58418-79238-2026-10-15:pinnacle:moneyline:new_york_rangers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "New Jersey Devils",
+     "selection": "New Jersey Devils",
+     "price": -145,
+     "timestamp": 1792037175.3753395,
+     "id": "58418-79238-2026-10-15:betmgm:moneyline:new_jersey_devils",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "New Jersey Devils",
+     "selection": "New Jersey Devils",
+     "price": -148,
+     "timestamp": 1791993064.2014973,
+     "id": "58418-79238-2026-10-15:draftkings:moneyline:new_jersey_devils",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "New York Rangers",
+     "selection": "New York Rangers",
+     "price": 124,
+     "timestamp": 1791993064.2014973,
+     "id": "58418-79238-2026-10-15:draftkings:moneyline:new_york_rangers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "New Jersey Devils",
+     "selection": "New Jersey Devils",
+     "price": -144,
+     "timestamp": 1792026547.677174,
+     "id": "58418-79238-2026-10-15:fanduel:moneyline:new_jersey_devils",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "New York Rangers",
+     "selection": "New York Rangers",
+     "price": 120,
+     "timestamp": 1792026547.677174,
+     "id": "58418-79238-2026-10-15:fanduel:moneyline:new_york_rangers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "New Jersey Devils",
+     "selection": "New Jersey Devils",
+     "price": -142,
+     "timestamp": 1792040911.1098745,
+     "id": "58418-79238-2026-10-15:pinnacle:moneyline:new_jersey_devils",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "New York Rangers",
+     "selection": "New York Rangers",
+     "price": 121,
+     "timestamp": 1792038584.2579002,
+     "id": "58418-79238-2026-10-15:caesars:moneyline:new_york_rangers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "New Jersey Devils",
+     "selection": "New Jersey Devils",
+     "price": -140,
+     "timestamp": 1792038584.2579002,
+     "id": "58418-79238-2026-10-15:caesars:moneyline:new_jersey_devils",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "New York Rangers",
+     "selection": "New York Rangers",
+     "price": 120,
+     "timestamp": 1792037175.3753395,
+     "id": "58418-79238-2026-10-15:betmgm:moneyline:new_york_rangers",
+     "is_main": true
+    }
+   ]
+  },
+  "2026101577903073": {
+   "retrieved_at": "2026-10-15T05:56:45.949Z",
+   "home": "Florida Panthers",
+   "away": "Vancouver Canucks",
+   "start": "2026-10-15T23:00:00Z",
+   "status": "unplayed",
+   "odds": [
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "Vancouver Canucks",
+     "selection": "Vancouver Canucks",
+     "price": 252,
+     "timestamp": 1792039754.8613853,
+     "id": "69549-56772-2026-10-15:pinnacle:moneyline:vancouver_canucks",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Vancouver Canucks",
+     "selection": "Vancouver Canucks",
+     "price": 240,
+     "timestamp": 1792037177.4208653,
+     "id": "69549-56772-2026-10-15:betmgm:moneyline:vancouver_canucks",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Florida Panthers",
+     "selection": "Florida Panthers",
+     "price": -295,
+     "timestamp": 1791997303.8672898,
+     "id": "69549-56772-2026-10-15:caesars:moneyline:florida_panthers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Florida Panthers",
+     "selection": "Florida Panthers",
+     "price": -298,
+     "timestamp": 1791993064.2014973,
+     "id": "69549-56772-2026-10-15:draftkings:moneyline:florida_panthers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "Florida Panthers",
+     "selection": "Florida Panthers",
+     "price": -299,
+     "timestamp": 1792039754.8613853,
+     "id": "69549-56772-2026-10-15:pinnacle:moneyline:florida_panthers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Florida Panthers",
+     "selection": "Florida Panthers",
+     "price": -300,
+     "timestamp": 1792035068.29017,
+     "id": "69549-56772-2026-10-15:fanduel:moneyline:florida_panthers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Vancouver Canucks",
+     "selection": "Vancouver Canucks",
+     "price": 240,
+     "timestamp": 1792035068.29017,
+     "id": "69549-56772-2026-10-15:fanduel:moneyline:vancouver_canucks",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Florida Panthers",
+     "selection": "Florida Panthers",
+     "price": -300,
+     "timestamp": 1792037177.4208653,
+     "id": "69549-56772-2026-10-15:betmgm:moneyline:florida_panthers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Vancouver Canucks",
+     "selection": "Vancouver Canucks",
+     "price": 240,
+     "timestamp": 1791997903.8544066,
+     "id": "69549-56772-2026-10-15:caesars:moneyline:vancouver_canucks",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Vancouver Canucks",
+     "selection": "Vancouver Canucks",
+     "price": 240,
+     "timestamp": 1791993064.2014973,
+     "id": "69549-56772-2026-10-15:draftkings:moneyline:vancouver_canucks",
+     "is_main": true
+    }
+   ]
+  },
+  "20261015E00306BD": {
+   "retrieved_at": "2026-10-15T05:56:45.949Z",
+   "home": "Ottawa Senators",
+   "away": "New York Islanders",
+   "start": "2026-10-15T23:00:00Z",
+   "status": "unplayed",
+   "odds": [
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "Ottawa Senators",
+     "selection": "Ottawa Senators",
+     "price": -153,
+     "timestamp": 1792035064.0603316,
+     "id": "60370-24302-2026-10-15:pinnacle:moneyline:ottawa_senators",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "New York Islanders",
+     "selection": "New York Islanders",
+     "price": 135,
+     "timestamp": 1792035064.0603316,
+     "id": "60370-24302-2026-10-15:pinnacle:moneyline:new_york_islanders",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Ottawa Senators",
+     "selection": "Ottawa Senators",
+     "price": -162,
+     "timestamp": 1792035157.8589842,
+     "id": "60370-24302-2026-10-15:fanduel:moneyline:ottawa_senators",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Ottawa Senators",
+     "selection": "Ottawa Senators",
+     "price": -166,
+     "timestamp": 1791998530.7912881,
+     "id": "60370-24302-2026-10-15:draftkings:moneyline:ottawa_senators",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "New York Islanders",
+     "selection": "New York Islanders",
+     "price": 135,
+     "timestamp": 1792039844.3103704,
+     "id": "60370-24302-2026-10-15:caesars:moneyline:new_york_islanders",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "New York Islanders",
+     "selection": "New York Islanders",
+     "price": 135,
+     "timestamp": 1792037174.360917,
+     "id": "60370-24302-2026-10-15:betmgm:moneyline:new_york_islanders",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "New York Islanders",
+     "selection": "New York Islanders",
+     "price": 140,
+     "timestamp": 1791998530.7912881,
+     "id": "60370-24302-2026-10-15:draftkings:moneyline:new_york_islanders",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "New York Islanders",
+     "selection": "New York Islanders",
+     "price": 134,
+     "timestamp": 1792035157.8589842,
+     "id": "60370-24302-2026-10-15:fanduel:moneyline:new_york_islanders",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Ottawa Senators",
+     "selection": "Ottawa Senators",
+     "price": -165,
+     "timestamp": 1792043283.3009853,
+     "id": "60370-24302-2026-10-15:betmgm:moneyline:ottawa_senators",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Ottawa Senators",
+     "selection": "Ottawa Senators",
+     "price": -165,
+     "timestamp": 1792039844.3103704,
+     "id": "60370-24302-2026-10-15:caesars:moneyline:ottawa_senators",
+     "is_main": true
+    }
+   ]
+  },
+  "202610155224694A": {
+   "retrieved_at": "2026-10-15T05:56:45.949Z",
+   "home": "Detroit Red Wings",
+   "away": "Philadelphia Flyers",
+   "start": "2026-10-15T23:30:00Z",
+   "status": "unplayed",
+   "odds": [
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Philadelphia Flyers",
+     "selection": "Philadelphia Flyers",
+     "price": 118,
+     "timestamp": 1792015555.468049,
+     "id": "14522-28301-2026-10-15:caesars:moneyline:philadelphia_flyers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "Detroit Red Wings",
+     "selection": "Detroit Red Wings",
+     "price": -134,
+     "timestamp": 1792040288.6383283,
+     "id": "14522-28301-2026-10-15:pinnacle:moneyline:detroit_red_wings",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "Philadelphia Flyers",
+     "selection": "Philadelphia Flyers",
+     "price": 119,
+     "timestamp": 1792035921.0441139,
+     "id": "14522-28301-2026-10-15:pinnacle:moneyline:philadelphia_flyers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Philadelphia Flyers",
+     "selection": "Philadelphia Flyers",
+     "price": 118,
+     "timestamp": 1792037176.4020245,
+     "id": "14522-28301-2026-10-15:betmgm:moneyline:philadelphia_flyers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Philadelphia Flyers",
+     "selection": "Philadelphia Flyers",
+     "price": 120,
+     "timestamp": 1792015495.1089592,
+     "id": "14522-28301-2026-10-15:draftkings:moneyline:philadelphia_flyers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Philadelphia Flyers",
+     "selection": "Philadelphia Flyers",
+     "price": 115,
+     "timestamp": 1792035217.7557886,
+     "id": "14522-28301-2026-10-15:fanduel:moneyline:philadelphia_flyers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Detroit Red Wings",
+     "selection": "Detroit Red Wings",
+     "price": -138,
+     "timestamp": 1792035217.7557886,
+     "id": "14522-28301-2026-10-15:fanduel:moneyline:detroit_red_wings",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Detroit Red Wings",
+     "selection": "Detroit Red Wings",
+     "price": -142,
+     "timestamp": 1792015495.1089592,
+     "id": "14522-28301-2026-10-15:draftkings:moneyline:detroit_red_wings",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Detroit Red Wings",
+     "selection": "Detroit Red Wings",
+     "price": -145,
+     "timestamp": 1792037176.4020245,
+     "id": "14522-28301-2026-10-15:betmgm:moneyline:detroit_red_wings",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Detroit Red Wings",
+     "selection": "Detroit Red Wings",
+     "price": -139,
+     "timestamp": 1792015555.468049,
+     "id": "14522-28301-2026-10-15:caesars:moneyline:detroit_red_wings",
+     "is_main": true
+    }
+   ]
+  },
+  "202610159A27D641": {
+   "retrieved_at": "2026-10-15T05:56:45.949Z",
+   "home": "Nashville Predators",
+   "away": "San Jose Sharks",
+   "start": "2026-10-16T00:00:00Z",
+   "status": "unplayed",
+   "odds": [
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "San Jose Sharks",
+     "selection": "San Jose Sharks",
+     "price": 115,
+     "timestamp": 1792007437.6417754,
+     "id": "90188-24191-2026-10-15:fanduel:moneyline:san_jose_sharks",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Nashville Predators",
+     "selection": "Nashville Predators",
+     "price": -135,
+     "timestamp": 1792037176.4020245,
+     "id": "90188-24191-2026-10-15:betmgm:moneyline:nashville_predators",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Nashville Predators",
+     "selection": "Nashville Predators",
+     "price": -141,
+     "timestamp": 1792007458.3648167,
+     "id": "90188-24191-2026-10-15:caesars:moneyline:nashville_predators",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "San Jose Sharks",
+     "selection": "San Jose Sharks",
+     "price": 124,
+     "timestamp": 1792007259.9670072,
+     "id": "90188-24191-2026-10-15:draftkings:moneyline:san_jose_sharks",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "San Jose Sharks",
+     "selection": "San Jose Sharks",
+     "price": 110,
+     "timestamp": 1792037176.4020245,
+     "id": "90188-24191-2026-10-15:betmgm:moneyline:san_jose_sharks",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "San Jose Sharks",
+     "selection": "San Jose Sharks",
+     "price": 121,
+     "timestamp": 1792035970.241188,
+     "id": "90188-24191-2026-10-15:pinnacle:moneyline:san_jose_sharks",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "Nashville Predators",
+     "selection": "Nashville Predators",
+     "price": -136,
+     "timestamp": 1792035970.241188,
+     "id": "90188-24191-2026-10-15:pinnacle:moneyline:nashville_predators",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Nashville Predators",
+     "selection": "Nashville Predators",
+     "price": -148,
+     "timestamp": 1792007259.9670072,
+     "id": "90188-24191-2026-10-15:draftkings:moneyline:nashville_predators",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "San Jose Sharks",
+     "selection": "San Jose Sharks",
+     "price": 119,
+     "timestamp": 1792007458.3648167,
+     "id": "90188-24191-2026-10-15:caesars:moneyline:san_jose_sharks",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Nashville Predators",
+     "selection": "Nashville Predators",
+     "price": -138,
+     "timestamp": 1792007437.6417754,
+     "id": "90188-24191-2026-10-15:fanduel:moneyline:nashville_predators",
+     "is_main": true
+    }
+   ]
+  },
+  "20261015A24FEACC": {
+   "retrieved_at": "2026-10-15T05:56:46.338Z",
+   "home": "Chicago Blackhawks",
+   "away": "Winnipeg Jets",
+   "start": "2026-10-16T00:00:00Z",
+   "status": "unplayed",
+   "odds": [
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Chicago Blackhawks",
+     "selection": "Chicago Blackhawks",
+     "price": 114,
+     "timestamp": 1791998569.3304362,
+     "id": "84427-21344-2026-10-15:draftkings:moneyline:chicago_blackhawks",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Winnipeg Jets",
+     "selection": "Winnipeg Jets",
+     "price": -134,
+     "timestamp": 1791998624.059352,
+     "id": "84427-21344-2026-10-15:caesars:moneyline:winnipeg_jets",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "Chicago Blackhawks",
+     "selection": "Chicago Blackhawks",
+     "price": 114,
+     "timestamp": 1792030697.8728266,
+     "id": "84427-21344-2026-10-15:pinnacle:moneyline:chicago_blackhawks",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Chicago Blackhawks",
+     "selection": "Chicago Blackhawks",
+     "price": 110,
+     "timestamp": 1792037173.340642,
+     "id": "84427-21344-2026-10-15:betmgm:moneyline:chicago_blackhawks",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "Winnipeg Jets",
+     "selection": "Winnipeg Jets",
+     "price": -129,
+     "timestamp": 1792030697.8728266,
+     "id": "84427-21344-2026-10-15:pinnacle:moneyline:winnipeg_jets",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Winnipeg Jets",
+     "selection": "Winnipeg Jets",
+     "price": -135,
+     "timestamp": 1792037173.340642,
+     "id": "84427-21344-2026-10-15:betmgm:moneyline:winnipeg_jets",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Winnipeg Jets",
+     "selection": "Winnipeg Jets",
+     "price": -126,
+     "timestamp": 1791998016.3322024,
+     "id": "84427-21344-2026-10-15:fanduel:moneyline:winnipeg_jets",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Chicago Blackhawks",
+     "selection": "Chicago Blackhawks",
+     "price": 114,
+     "timestamp": 1791998624.059352,
+     "id": "84427-21344-2026-10-15:caesars:moneyline:chicago_blackhawks",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Winnipeg Jets",
+     "selection": "Winnipeg Jets",
+     "price": -135,
+     "timestamp": 1791998569.3304362,
+     "id": "84427-21344-2026-10-15:draftkings:moneyline:winnipeg_jets",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Chicago Blackhawks",
+     "selection": "Chicago Blackhawks",
+     "price": 105,
+     "timestamp": 1791998016.3322024,
+     "id": "84427-21344-2026-10-15:fanduel:moneyline:chicago_blackhawks",
+     "is_main": true
+    }
+   ]
+  },
+  "20261015D017673D": {
+   "retrieved_at": "2026-10-15T05:56:46.338Z",
+   "home": "Minnesota Wild",
+   "away": "St. Louis Blues",
+   "start": "2026-10-16T00:00:00Z",
+   "status": "unplayed",
+   "odds": [
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "St. Louis Blues",
+     "selection": "St. Louis Blues",
+     "price": 124,
+     "timestamp": 1792007870.5765827,
+     "id": "15365-30973-2026-10-15:draftkings:moneyline:st_louis_blues",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "St. Louis Blues",
+     "selection": "St. Louis Blues",
+     "price": 124,
+     "timestamp": 1792030698.540728,
+     "id": "15365-30973-2026-10-15:pinnacle:moneyline:st_louis_blues",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Minnesota Wild",
+     "selection": "Minnesota Wild",
+     "price": -150,
+     "timestamp": 1792034978.016803,
+     "id": "15365-30973-2026-10-15:fanduel:moneyline:minnesota_wild",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "St. Louis Blues",
+     "selection": "St. Louis Blues",
+     "price": 125,
+     "timestamp": 1792037178.432759,
+     "id": "15365-30973-2026-10-15:betmgm:moneyline:st_louis_blues",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Minnesota Wild",
+     "selection": "Minnesota Wild",
+     "price": -150,
+     "timestamp": 1792037178.432759,
+     "id": "15365-30973-2026-10-15:betmgm:moneyline:minnesota_wild",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "St. Louis Blues",
+     "selection": "St. Louis Blues",
+     "price": 129,
+     "timestamp": 1792007564.0254633,
+     "id": "15365-30973-2026-10-15:caesars:moneyline:st_louis_blues",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "St. Louis Blues",
+     "selection": "St. Louis Blues",
+     "price": 125,
+     "timestamp": 1792034978.016803,
+     "id": "15365-30973-2026-10-15:fanduel:moneyline:st_louis_blues",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Minnesota Wild",
+     "selection": "Minnesota Wild",
+     "price": -148,
+     "timestamp": 1792007870.5765827,
+     "id": "15365-30973-2026-10-15:draftkings:moneyline:minnesota_wild",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "Minnesota Wild",
+     "selection": "Minnesota Wild",
+     "price": -140,
+     "timestamp": 1792030698.540728,
+     "id": "15365-30973-2026-10-15:pinnacle:moneyline:minnesota_wild",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Minnesota Wild",
+     "selection": "Minnesota Wild",
+     "price": -152,
+     "timestamp": 1792007564.0254633,
+     "id": "15365-30973-2026-10-15:caesars:moneyline:minnesota_wild",
+     "is_main": true
+    }
+   ]
+  },
+  "2026101575909BFF": {
+   "retrieved_at": "2026-10-15T05:56:46.338Z",
+   "home": "Edmonton Oilers",
+   "away": "Utah Mammoth",
+   "start": "2026-10-16T01:00:00Z",
+   "status": "unplayed",
+   "odds": [
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Utah Mammoth",
+     "selection": "Utah Mammoth",
+     "price": 105,
+     "timestamp": 1792037176.4020245,
+     "id": "34273-26712-2026-10-15:betmgm:moneyline:utah_mammoth",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Edmonton Oilers",
+     "selection": "Edmonton Oilers",
+     "price": -130,
+     "timestamp": 1792037176.4020245,
+     "id": "34273-26712-2026-10-15:betmgm:moneyline:edmonton_oilers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Utah Mammoth",
+     "selection": "Utah Mammoth",
+     "price": 105,
+     "timestamp": 1792026817.79476,
+     "id": "34273-26712-2026-10-15:fanduel:moneyline:utah_mammoth",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "Utah Mammoth",
+     "selection": "Utah Mammoth",
+     "price": 110,
+     "timestamp": 1792030696.7533972,
+     "id": "34273-26712-2026-10-15:pinnacle:moneyline:utah_mammoth",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Edmonton Oilers",
+     "selection": "Edmonton Oilers",
+     "price": -130,
+     "timestamp": 1792007698.0888488,
+     "id": "34273-26712-2026-10-15:caesars:moneyline:edmonton_oilers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "Edmonton Oilers",
+     "selection": "Edmonton Oilers",
+     "price": -123,
+     "timestamp": 1792030696.7533972,
+     "id": "34273-26712-2026-10-15:pinnacle:moneyline:edmonton_oilers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Utah Mammoth",
+     "selection": "Utah Mammoth",
+     "price": 110,
+     "timestamp": 1792007698.0888488,
+     "id": "34273-26712-2026-10-15:caesars:moneyline:utah_mammoth",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Edmonton Oilers",
+     "selection": "Edmonton Oilers",
+     "price": -130,
+     "timestamp": 1792007471.0120132,
+     "id": "34273-26712-2026-10-15:draftkings:moneyline:edmonton_oilers",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Utah Mammoth",
+     "selection": "Utah Mammoth",
+     "price": 110,
+     "timestamp": 1792007471.0120132,
+     "id": "34273-26712-2026-10-15:draftkings:moneyline:utah_mammoth",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Edmonton Oilers",
+     "selection": "Edmonton Oilers",
+     "price": -126,
+     "timestamp": 1792026817.79476,
+     "id": "34273-26712-2026-10-15:fanduel:moneyline:edmonton_oilers",
+     "is_main": true
+    }
+   ]
+  },
+  "20261015873235C4": {
+   "retrieved_at": "2026-10-15T05:56:46.338Z",
+   "home": "Vegas Golden Knights",
+   "away": "Calgary Flames",
+   "start": "2026-10-16T02:00:00Z",
+   "status": "unplayed",
+   "odds": [
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Vegas Golden Knights",
+     "selection": "Vegas Golden Knights",
+     "price": -305,
+     "timestamp": 1792007682.846642,
+     "id": "23955-20543-2026-10-15:draftkings:moneyline:vegas_golden_knights",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Calgary Flames",
+     "selection": "Calgary Flames",
+     "price": 260,
+     "timestamp": 1792037173.340642,
+     "id": "23955-20543-2026-10-15:betmgm:moneyline:calgary_flames",
+     "is_main": true
+    },
+    {
+     "sportsbook": "BetMGM",
+     "market": "Moneyline",
+     "name": "Vegas Golden Knights",
+     "selection": "Vegas Golden Knights",
+     "price": -325,
+     "timestamp": 1792037173.340642,
+     "id": "23955-20543-2026-10-15:betmgm:moneyline:vegas_golden_knights",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Vegas Golden Knights",
+     "selection": "Vegas Golden Knights",
+     "price": -330,
+     "timestamp": 1792007797.7544787,
+     "id": "23955-20543-2026-10-15:fanduel:moneyline:vegas_golden_knights",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Vegas Golden Knights",
+     "selection": "Vegas Golden Knights",
+     "price": -320,
+     "timestamp": 1792007923.9662933,
+     "id": "23955-20543-2026-10-15:caesars:moneyline:vegas_golden_knights",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "Calgary Flames",
+     "selection": "Calgary Flames",
+     "price": 269,
+     "timestamp": 1792036027.3344123,
+     "id": "23955-20543-2026-10-15:pinnacle:moneyline:calgary_flames",
+     "is_main": true
+    },
+    {
+     "sportsbook": "DraftKings",
+     "market": "Moneyline",
+     "name": "Calgary Flames",
+     "selection": "Calgary Flames",
+     "price": 245,
+     "timestamp": 1792007682.846642,
+     "id": "23955-20543-2026-10-15:draftkings:moneyline:calgary_flames",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Pinnacle",
+     "market": "Moneyline",
+     "name": "Vegas Golden Knights",
+     "selection": "Vegas Golden Knights",
+     "price": -321,
+     "timestamp": 1792036027.3344123,
+     "id": "23955-20543-2026-10-15:pinnacle:moneyline:vegas_golden_knights",
+     "is_main": true
+    },
+    {
+     "sportsbook": "Caesars",
+     "market": "Moneyline",
+     "name": "Calgary Flames",
+     "selection": "Calgary Flames",
+     "price": 255,
+     "timestamp": 1792007923.9662933,
+     "id": "23955-20543-2026-10-15:caesars:moneyline:calgary_flames",
+     "is_main": true
+    },
+    {
+     "sportsbook": "FanDuel",
+     "market": "Moneyline",
+     "name": "Calgary Flames",
+     "selection": "Calgary Flames",
+     "price": 260,
+     "timestamp": 1792007797.7544787,
+     "id": "23955-20543-2026-10-15:fanduel:moneyline:calgary_flames",
+     "is_main": true
+    }
+   ]
+  }
+ }
+}

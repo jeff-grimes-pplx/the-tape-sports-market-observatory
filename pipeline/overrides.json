@@ -1,0 +1,236 @@
+{
+ "matches": [
+  {
+   "league": "ncaaf",
+   "oo_fixture_id": "20260919440351A8",
+   "pm_event_id": "985313",
+   "pm_slug": "cfb-presb-wcar-2026-09-19",
+   "reason": "oo_start_time_later_than_sr_and_pm (likely delayed kickoff); teams and final score identical in all three sources",
+   "dt_min": -95.0,
+   "oo_score": [
+    14,
+    58
+   ],
+   "pm_score": "14-58",
+   "teams": "Presbyterian @ Western Carolina",
+   "sr_game_id": "4e44e2b1-bdb9-4617-9b40-77c4b55f0811"
+  },
+  {
+   "league": "ncaaf",
+   "oo_fixture_id": "202609190ADF8FA1",
+   "pm_event_id": "985326",
+   "pm_slug": "cfb-flst-ala-2026-09-19",
+   "reason": "pm_start_time_offset",
+   "dt_min": -105.0,
+   "oo_score": [
+    36,
+    50
+   ],
+   "pm_score": "36-50",
+   "teams": "Florida State @ Alabama"
+  },
+  {
+   "league": "ncaaf",
+   "oo_fixture_id": "202609196B3F5DDF",
+   "pm_event_id": "985347",
+   "pm_slug": "cfb-mspst-sc-2026-09-19",
+   "reason": "oo_start_time_later_than_sr_and_pm (likely delayed kickoff); teams and final score identical in all three sources",
+   "dt_min": -80.0,
+   "oo_score": [
+    41,
+    34
+   ],
+   "pm_score": "41-34",
+   "teams": "Mississippi State @ South Carolina",
+   "sr_game_id": "f8a20779-c02e-4ece-861e-c464877a6c66"
+  },
+  {
+   "league": "ncaaf",
+   "oo_fixture_id": "202609194DADB5AB",
+   "pm_event_id": "985363",
+   "pm_slug": "cfb-scarst-furman-2026-09-19",
+   "reason": "oo_start_time_later_than_sr_and_pm (likely delayed kickoff); teams and final score identical in all three sources",
+   "dt_min": -30.0,
+   "oo_score": [
+    20,
+    17
+   ],
+   "pm_score": "20-17",
+   "teams": "South Carolina State @ Furman",
+   "sr_game_id": "85daf480-da24-440f-acad-a45ac0d3dc9d"
+  },
+  {
+   "league": "ncaaf",
+   "oo_fixture_id": "202609190BC5D7F1",
+   "pm_event_id": "985357",
+   "pm_slug": "cfb-charlt-applst-2026-09-19",
+   "reason": "oo_start_time_later_than_sr_and_pm (likely delayed kickoff); teams and final score identical in all three sources",
+   "dt_min": -210.0,
+   "oo_score": [
+    21,
+    26
+   ],
+   "pm_score": "21-26",
+   "teams": "Charlotte @ Appalachian State",
+   "sr_game_id": "b209ccc1-6efd-474d-a799-96a8c0f4eae5"
+  },
+  {
+   "league": "ncaaf",
+   "oo_fixture_id": "20261007239981BC",
+   "pm_event_id": "1100243",
+   "pm_slug": "cfb-nmxst-flint-2026-10-07",
+   "reason": "oo_start_time_later_than_sr_and_pm (likely delayed kickoff); teams and final score identical in all three sources",
+   "dt_min": -34.0,
+   "oo_score": [
+    3,
+    22
+   ],
+   "pm_score": "3-22",
+   "teams": "New Mexico State @ Florida International",
+   "sr_game_id": "817868ec-78b9-4849-8ae8-7a65590d7040"
+  },
+  {
+   "league": "ncaaf",
+   "oo_fixture_id": "2026101085FF02BC",
+   "pm_event_id": "1100559",
+   "pm_slug": "cfb-scarst-chsou-2026-10-10",
+   "reason": "pm_start_time_offset",
+   "dt_min": -60.0,
+   "oo_score": [
+    39,
+    49
+   ],
+   "pm_score": "39-49",
+   "teams": "South Carolina State @ Charleston Southern"
+  },
+  {
+   "league": "ncaaf",
+   "oo_fixture_id": "20261010CEADD256",
+   "pm_event_id": "1100353",
+   "pm_slug": "cfb-jmad-gas-2026-10-10",
+   "reason": "oo_start_time_later_than_sr_and_pm (likely delayed kickoff); teams and final score identical in all three sources",
+   "dt_min": -40.0,
+   "oo_score": [
+    27,
+    24
+   ],
+   "pm_score": "27-24",
+   "teams": "James Madison @ Georgia Southern",
+   "sr_game_id": "755301ac-db56-45a7-9790-f6a2374c9746"
+  },
+  {
+   "league": "nhl",
+   "oo_fixture_id": "20260920D6BA1F0F",
+   "pm_event_id": "895963",
+   "pm_slug": "nhl-van-sea-2026-09-19",
+   "reason": "pm_start_time_offset",
+   "dt_min": 60.0,
+   "oo_score": [
+    2,
+    4
+   ],
+   "pm_score": "2-4",
+   "teams": "Vancouver Canucks @ Seattle Kraken"
+  },
+  {
+   "league": "nhl",
+   "oo_fixture_id": "202609259750EB89",
+   "pm_event_id": "931136",
+   "pm_slug": "nhl-nyr-nyi-2026-09-25",
+   "reason": "pm_start_time_offset",
+   "dt_min": -30.0,
+   "oo_score": [
+    6,
+    1
+   ],
+   "pm_score": "6-1",
+   "teams": "New York Rangers @ New York Islanders"
+  },
+  {
+   "league": "nhl",
+   "oo_fixture_id": "202609269C35BDFA",
+   "pm_event_id": "936787",
+   "pm_slug": "nhl-nj-nyi-2026-09-26",
+   "reason": "pm_start_time_offset",
+   "dt_min": -30.0,
+   "oo_score": [
+    4,
+    1
+   ],
+   "pm_score": "4-1",
+   "teams": "New Jersey Devils @ New York Islanders"
+  },
+  {
+   "league": "nhl",
+   "oo_fixture_id": "2026100652A0CCEA",
+   "pm_event_id": "994277",
+   "pm_slug": "nhl-nyi-nyr-2026-10-06",
+   "reason": "pm_start_time_offset",
+   "dt_min": 30.0,
+   "oo_score": [
+    2,
+    5
+   ],
+   "pm_score": "2-5",
+   "teams": "New York Islanders @ New York Rangers"
+  },
+  {
+   "league": "nhl",
+   "oo_fixture_id": "20261007A60D2DC6",
+   "pm_event_id": "994284",
+   "pm_slug": "nhl-fla-lak-2026-10-06",
+   "reason": "pm_start_time_offset",
+   "dt_min": 30.0,
+   "oo_score": [
+    2,
+    1
+   ],
+   "pm_score": "2-1",
+   "teams": "Florida Panthers @ Los Angeles Kings"
+  },
+  {
+   "league": "wnba",
+   "oo_fixture_id": "20261002FF97B904",
+   "pm_event_id": "1081047",
+   "pm_slug": "wnba-ind-las-2026-10-01",
+   "reason": "pm_start_time_offset",
+   "dt_min": -480.0,
+   "oo_score": [
+    83,
+    94
+   ],
+   "pm_score": "83-94",
+   "teams": "Indiana Fever @ Las Vegas Aces"
+  },
+  {
+   "league": "wnba",
+   "oo_fixture_id": "20261004EA0D2R0Y",
+   "pm_event_id": "1121687",
+   "pm_slug": "wnba-nyl-atl-2026-10-04",
+   "reason": "pm_start_time_offset",
+   "dt_min": -60.0,
+   "oo_score": [
+    82,
+    92
+   ],
+   "pm_score": "82-92",
+   "teams": "New York Liberty @ Atlanta Dream"
+  },
+  {
+   "league": "mls",
+   "oo_fixture_id": "202609205B3214CE",
+   "pm_event_id": "976608",
+   "pm_slug": "mls-col-sea-2026-09-19",
+   "reason": "pm_start_time_offset",
+   "dt_min": -60.0,
+   "oo_score": [
+    3,
+    3
+   ],
+   "pm_score": "3-3",
+   "teams": "Seattle Sounders FC @ Colorado Rapids"
+  }
+ ],
+ "blocks": [],
+ "notes": "Hand-verified overrides. Each row is an OpticOdds fixture and a Polymarket event with identical teams and identical final scores whose Polymarket startTime is a placeholder or offset (dt_min). Reviewed 2026-10-15 by the build session; applied as tier M."
+}

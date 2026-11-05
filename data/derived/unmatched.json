@@ -1,0 +1,404 @@
+{
+ "nfl": [
+  {
+   "oo_fixture_id": "20260913459E30BF",
+   "start": "2026-09-13T17:00:00Z",
+   "away": "Tampa Bay Buccaneers",
+   "home": "Cincinnati Bengals",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "20260913586A965D",
+   "start": "2026-09-13T17:00:00Z",
+   "away": "Baltimore Ravens",
+   "home": "Indianapolis Colts",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "20260913613D2BBA",
+   "start": "2026-09-13T17:00:00Z",
+   "away": "Atlanta Falcons",
+   "home": "Pittsburgh Steelers",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "202609137216F845",
+   "start": "2026-09-13T17:00:00Z",
+   "away": "Cleveland Browns",
+   "home": "Jacksonville Jaguars",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "20260913A5D5925E",
+   "start": "2026-09-13T17:00:00Z",
+   "away": "Buffalo Bills",
+   "home": "Houston Texans",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "20260913DABEBB98",
+   "start": "2026-09-13T17:00:00Z",
+   "away": "Chicago Bears",
+   "home": "Carolina Panthers",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "20260913E04621F2",
+   "start": "2026-09-13T17:00:00Z",
+   "away": "New York Jets",
+   "home": "Tennessee Titans",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "20260913FD396C44",
+   "start": "2026-09-13T17:00:00Z",
+   "away": "New Orleans Saints",
+   "home": "Detroit Lions",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  }
+ ],
+ "ncaaf": [
+  {
+   "oo_fixture_id": "202609120169A1B2",
+   "start": "2026-09-13T00:50:00Z",
+   "away": "Southern Mississippi",
+   "home": "Auburn",
+   "has_pm": false,
+   "has_sr": false,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "20260926B7FD99E5",
+   "start": "2026-09-26T16:00:00Z",
+   "away": "Wake Forest",
+   "home": "Louisville",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "202609263292B210",
+   "start": "2026-09-26T19:30:00Z",
+   "away": "Boise State",
+   "home": "Western Michigan",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "20260926A60C1FCE",
+   "start": "2026-09-26T19:30:00Z",
+   "away": "Connecticut",
+   "home": "Miami Ohio",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "202609266F75BE7F",
+   "start": "2026-09-26T22:30:00Z",
+   "away": "Central Michigan",
+   "home": "Miami Florida",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "20261001C0AE98CA",
+   "start": "2026-10-02T00:00:00Z",
+   "away": "Western Kentucky",
+   "home": "New Mexico State",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "202610032B945D8A",
+   "start": "2026-10-03T17:00:00Z",
+   "away": "Western Michigan",
+   "home": "Buffalo",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "2026100318059A80",
+   "start": "2026-10-03T19:30:00Z",
+   "away": "Samford",
+   "home": "UAB",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "202610103CCB0DB3",
+   "start": "2026-10-10T16:00:00Z",
+   "away": "Sacramento State",
+   "home": "Bowling Green",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "2026101041BA1D11",
+   "start": "2026-10-10T16:00:00Z",
+   "away": "UCF",
+   "home": "Oklahoma State",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "20261010AAE95BD7",
+   "start": "2026-10-10T16:00:00Z",
+   "away": "Wake Forest",
+   "home": "North Carolina State",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "20261010E96076EE",
+   "start": "2026-10-10T16:00:00Z",
+   "away": "Arizona",
+   "home": "West Virginia",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "202610100007D648",
+   "start": "2026-10-10T19:30:00Z",
+   "away": "Charlotte",
+   "home": "North Texas",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "202610101DEC2B20",
+   "start": "2026-10-10T19:30:00Z",
+   "away": "Eastern Michigan",
+   "home": "Akron",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "202610106CD11241",
+   "start": "2026-10-10T19:30:00Z",
+   "away": "Ole Miss",
+   "home": "Vanderbilt",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "20261010746FB247",
+   "start": "2026-10-10T19:30:00Z",
+   "away": "Houston",
+   "home": "Kansas State",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "2026101087E848D0",
+   "start": "2026-10-10T19:30:00Z",
+   "away": "Texas",
+   "home": "Oklahoma",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "20261010B7BA55B7",
+   "start": "2026-10-10T19:30:00Z",
+   "away": "Tulsa",
+   "home": "Navy",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "20261010DE6E1FDB",
+   "start": "2026-10-10T19:30:00Z",
+   "away": "Central Michigan",
+   "home": "Ohio",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "202610107A3775BF",
+   "start": "2026-10-10T20:15:00Z",
+   "away": "Maryland",
+   "home": "Ohio State",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "202610107DB1A643",
+   "start": "2026-10-10T23:00:00Z",
+   "away": "Nevada",
+   "home": "UTEP",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  }
+ ],
+ "nba": [
+  {
+   "oo_fixture_id": "202610120C1B9CD2",
+   "start": "2026-10-12T20:00:00Z",
+   "away": "London Lions",
+   "home": "Portland Trail Blazers",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "2026101490BB3DDF",
+   "start": "2026-10-14T23:30:00Z",
+   "away": "Charlotte Hornets",
+   "home": "Boston Celtics",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  }
+ ],
+ "nhl": [
+  {
+   "oo_fixture_id": "20260926E32CCA83",
+   "start": "2026-09-26T23:00:00Z",
+   "away": "Montreal Canadiens",
+   "home": "Ottawa Senators",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "20261014B3E82F39",
+   "start": "2026-10-14T23:30:00Z",
+   "away": "Montreal Canadiens",
+   "home": "Washington Capitals",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  }
+ ],
+ "wnba": [
+  {
+   "oo_fixture_id": "20261007F22A99C4",
+   "start": "2026-10-07T23:30:00Z",
+   "away": "New York Liberty",
+   "home": "Atlanta Dream",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "20261009CBF34AF2",
+   "start": "2026-10-09T23:30:00Z",
+   "away": "Atlanta Dream",
+   "home": "New York Liberty",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  }
+ ],
+ "mls": [
+  {
+   "oo_fixture_id": "2026101462AD6A1E",
+   "start": "2026-10-14T23:30:00Z",
+   "away": "New England Revolution",
+   "home": "FC Cincinnati",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "202610149A2C31A9",
+   "start": "2026-10-14T23:30:00Z",
+   "away": "Atlanta United FC",
+   "home": "Club de Foot Montr\u00e9al",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "20261014C10834DD",
+   "start": "2026-10-14T23:30:00Z",
+   "away": "New York Red Bulls",
+   "home": "DC United",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  },
+  {
+   "oo_fixture_id": "20261014F76AF20D",
+   "start": "2026-10-14T23:30:00Z",
+   "away": "Charlotte FC",
+   "home": "Columbus Crew",
+   "has_pm": false,
+   "has_sr": true,
+   "amb_pm": null,
+   "amb_sr": null
+  }
+ ]
+}

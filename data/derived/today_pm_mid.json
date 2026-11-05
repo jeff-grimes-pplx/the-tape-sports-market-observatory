@@ -1,0 +1,329 @@
+{
+ "generated_at": "2026-10-15T06:01:39.603Z",
+ "mids": {
+  "20261016217D24AF": {
+   "market_id": "4212356",
+   "question": "Seahawks vs. Broncos",
+   "outcomes": [
+    "Seahawks",
+    "Broncos"
+   ],
+   "home_idx": 1,
+   "away_idx": 0,
+   "home_token": "78653414984017864835330593213700943479354040352698721042453780387223265497055",
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T06:00:45.293Z",
+   "raw": {
+    "mid": "0.435"
+   }
+  },
+  "2026101515C2101E": {
+   "market_id": "5348293",
+   "question": "Georgia Southern vs. Old Dominion",
+   "outcomes": [
+    "Georgia Southern",
+    "Old Dominion"
+   ],
+   "home_idx": 1,
+   "away_idx": 0,
+   "home_token": "91924587001137535833688506318908979692570354805109573760887984167240283797603",
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T06:00:48.297Z",
+   "raw": {
+    "mid": "0.395"
+   }
+  },
+  "20261015F7E7134C": {
+   "market_id": "5347876",
+   "question": "East Carolina vs. UAB",
+   "outcomes": [
+    "East Carolina",
+    "UAB"
+   ],
+   "home_idx": 1,
+   "away_idx": 0,
+   "home_token": "52399413806060758270702346532400984648715110632389816533176411617277849247556",
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T06:00:51.300Z",
+   "raw": {
+    "mid": "0.355"
+   }
+  },
+  "20261015A5D0D0C5": {
+   "market_id": "5348327",
+   "question": "Colorado State vs. Texas State",
+   "outcomes": [
+    "Colorado State",
+    "Texas State"
+   ],
+   "home_idx": 1,
+   "away_idx": 0,
+   "home_token": "68892303358920224436774714116599355656172380111696983630953406756097783564792",
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T06:00:54.300Z",
+   "raw": {
+    "mid": "0.835"
+   }
+  },
+  "20261015BC068DC7": {
+   "market_id": "5557830",
+   "question": "Tampa Bay Rays vs. Cleveland Guardians",
+   "outcomes": [
+    "Tampa Bay Rays",
+    "Cleveland Guardians"
+   ],
+   "home_idx": 1,
+   "away_idx": 0,
+   "home_token": "37423920033382024277173954288655698746438170301870901015367976444469714559272",
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T06:00:57.303Z",
+   "raw": {
+    "mid": "0.545"
+   }
+  },
+  "20261015D76533E7": {
+   "market_id": "5429338",
+   "question": "Milwaukee Brewers vs. Los Angeles Dodgers",
+   "outcomes": [
+    "Milwaukee Brewers",
+    "Los Angeles Dodgers"
+   ],
+   "home_idx": 1,
+   "away_idx": 0,
+   "home_token": "100965330913831513998956258982548871373691023925711389989408852174246950862961",
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T06:01:00.307Z",
+   "raw": {
+    "mid": "0.585"
+   }
+  },
+  "20261015DDCA5ED3": {
+   "market_id": "5446804",
+   "question": "Raptors vs. Knicks",
+   "outcomes": [
+    "Raptors",
+    "Knicks"
+   ],
+   "home_idx": 1,
+   "away_idx": 0,
+   "home_token": "108740814199431467369591735760815470467632164823543371521330816584674216456613",
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T06:01:03.309Z",
+   "raw": {
+    "mid": "0.615"
+   }
+  },
+  "20261015F86FE74E": {
+   "market_id": "5446807",
+   "question": "Thunder vs. Rockets",
+   "outcomes": [
+    "Thunder",
+    "Rockets"
+   ],
+   "home_idx": 1,
+   "away_idx": 0,
+   "home_token": "41480199449905311118643691123138407336399276023876527660587396829165210005156",
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T06:01:06.311Z",
+   "raw": {
+    "mid": "0.385"
+   }
+  },
+  "2026101502B055AE": {
+   "market_id": "4688863",
+   "question": "Kraken vs. Lightning",
+   "outcomes": [
+    "Kraken",
+    "Lightning"
+   ],
+   "home_idx": 1,
+   "away_idx": 0,
+   "home_token": "363035821414062489509187355425237740418649766871893280411414678884688005156",
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T06:01:09.314Z",
+   "raw": {
+    "mid": "0.695"
+   }
+  },
+  "202610151C6B8C02": {
+   "market_id": "4688858",
+   "question": "Sabres vs. Maple Leafs",
+   "outcomes": [
+    "Sabres",
+    "Maple Leafs"
+   ],
+   "home_idx": 1,
+   "away_idx": 0,
+   "home_token": "76135786023250944668668842489147062476155239875567121521935853991456751721612",
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T06:01:12.317Z",
+   "raw": {
+    "mid": "0.515"
+   }
+  },
+  "202610156011A07E": {
+   "market_id": "4688873",
+   "question": "Rangers vs. Devils",
+   "outcomes": [
+    "Rangers",
+    "Devils"
+   ],
+   "home_idx": 1,
+   "away_idx": 0,
+   "home_token": "86371884488158455172124173616952269393273937144421676378565316417203261854419",
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T06:01:15.321Z",
+   "raw": {
+    "mid": "0.565"
+   }
+  },
+  "2026101577903073": {
+   "market_id": "4688853",
+   "question": "Canucks vs. Panthers",
+   "outcomes": [
+    "Canucks",
+    "Panthers"
+   ],
+   "home_idx": 1,
+   "away_idx": 0,
+   "home_token": "21040679289715346231231267647373365282488818440456746916772943665054139283898",
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T06:01:18.323Z",
+   "raw": {
+    "mid": "0.725"
+   }
+  },
+  "20261015E00306BD": {
+   "market_id": "4688868",
+   "question": "Islanders vs. Senators",
+   "outcomes": [
+    "Islanders",
+    "Senators"
+   ],
+   "home_idx": 1,
+   "away_idx": 0,
+   "home_token": "35368065868095337973711406634338778268939715557836440117186309902423319598753",
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T06:01:21.326Z",
+   "raw": {
+    "mid": "0.595"
+   }
+  },
+  "202610155224694A": {
+   "market_id": "4688878",
+   "question": "Flyers vs. Red Wings",
+   "outcomes": [
+    "Flyers",
+    "Red Wings"
+   ],
+   "home_idx": 1,
+   "away_idx": 0,
+   "home_token": "83544925835749052946724847178343420352370797465416903794708220348054127481983",
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T06:01:24.328Z",
+   "raw": {
+    "mid": "0.565"
+   }
+  },
+  "202610159A27D641": {
+   "market_id": "4688888",
+   "question": "Sharks vs. Predators",
+   "outcomes": [
+    "Sharks",
+    "Predators"
+   ],
+   "home_idx": 1,
+   "away_idx": 0,
+   "home_token": "1794501144501457564749942454904717731281257901122525972893824809140957845896",
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T06:01:27.330Z",
+   "raw": {
+    "mid": "0.565"
+   }
+  },
+  "20261015A24FEACC": {
+   "market_id": "4688893",
+   "question": "Jets vs. Blackhawks",
+   "outcomes": [
+    "Jets",
+    "Blackhawks"
+   ],
+   "home_idx": 1,
+   "away_idx": 0,
+   "home_token": "18809833376727296078320665135681167374547230199740416078334609529485741436124",
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T06:01:30.332Z",
+   "raw": {
+    "mid": "0.445"
+   }
+  },
+  "20261015D017673D": {
+   "market_id": "4688883",
+   "question": "Blues vs. Wild",
+   "outcomes": [
+    "Blues",
+    "Wild"
+   ],
+   "home_idx": 1,
+   "away_idx": 0,
+   "home_token": "94799684865352952309335521617945444946848891925793950420473282958715962497682",
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T06:01:33.336Z",
+   "raw": {
+    "mid": "0.575"
+   }
+  },
+  "2026101575909BFF": {
+   "market_id": "4688898",
+   "question": "Utah vs. Oilers",
+   "outcomes": [
+    "Utah",
+    "Oilers"
+   ],
+   "home_idx": 1,
+   "away_idx": 0,
+   "home_token": "63735930034113584849366821861812476940714665311441191345290193641957564748365",
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T06:01:36.337Z",
+   "raw": {
+    "mid": "0.545"
+   }
+  },
+  "20261015873235C4": {
+   "market_id": "4688903",
+   "question": "Flames vs. Golden Knights",
+   "outcomes": [
+    "Flames",
+    "Golden Knights"
+   ],
+   "home_idx": 1,
+   "away_idx": 0,
+   "home_token": "57984071087214022574470579779604980445058269796734547124621585176907595856630",
+   "ok": true,
+   "cached": false,
+   "retrieved_at": "2026-10-15T06:01:39.337Z",
+   "raw": {
+    "mid": "0.735"
+   }
+  }
+ },
+ "issues": []
+}
