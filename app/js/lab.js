@@ -9,7 +9,7 @@ const ENTRY_LABEL = { t6h: 'T−6 h', t1h: 'T−1 h', t10m: 'T−10 min' };
 const LAB_PRESETS = [
   {
     id: 'fade_2pp',
-    label: '01 · Fade Late Move (θ = 2 pp, T−10m, Fees On) · N=197',
+    label: '01 · Fade Late Move (θ = 2 pp, T−10m, Fees On) · N=197 · +$0.0096',
     strategy: 'fade_late_move',
     theta: 0.02,
     entry: 't10m',
@@ -17,23 +17,23 @@ const LAB_PRESETS = [
   },
   {
     id: 'follow_2pp_10m',
-    label: '02 · Follow Pinnacle Late Lag (θ = 2 pp, T−10m, Fees On) · N=176',
+    label: '02 · Follow Pinnacle 1h Out (θ = 2 pp, T−1h, Fees On) · N=36 · −$0.0403',
     strategy: 'follow_pinnacle',
     theta: 0.02,
-    entry: 't10m',
-    fees: true,
-  },
-  {
-    id: 'follow_3pp_1h',
-    label: '03 · Follow Pinnacle 1h Out (θ = 3 pp, T−1h, Fees On) · N=122',
-    strategy: 'follow_pinnacle',
-    theta: 0.03,
     entry: 't1h',
     fees: true,
   },
   {
+    id: 'follow_3pp_1h',
+    label: '03 · Follow Pinnacle 6h Out (θ = 2 pp, T−6h, Fees On) · N=38 · −$0.2115',
+    strategy: 'follow_pinnacle',
+    theta: 0.02,
+    entry: 't6h',
+    fees: true,
+  },
+  {
     id: 'fade_2pp_nofee',
-    label: '04 · Zero-Fee Counterfactual (Fade θ = 2 pp, Fees Off) · +$0.0251',
+    label: '04 · Zero-Fee Counterfactual (Fade θ = 2 pp, Fees Off) · N=197 · +$0.0251',
     strategy: 'fade_late_move',
     theta: 0.02,
     entry: 't10m',
